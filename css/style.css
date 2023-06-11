@@ -1,3 +1,5 @@
+/*news page*/
+
 .logoimg {
 	display: inline-block;
 	vertical-align: middle;
@@ -30,7 +32,6 @@ ul {
 }
 .container {
 	width: 1052px;
-	border: 1px solid black;
 	margin: 0 auto;
 }
 .section1 {
@@ -120,3 +121,142 @@ img {
 	margin-right: 0px;
 	margin-left: 0px;
 }
+
+/*contact page*/
+
+span {
+	font-family: "BPG Square", sans-serif;
+	font-weight: 400;
+	color: #7E8898;
+
+}
+
+.ph3 {
+	font-family: "BPG Square", sans-serif;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 44px;
+	color: #4E6FAE;
+	margin-bottom: 15px;
+}
+.ph4 {
+	font-family: "BPG Square", sans-serif;
+	font-weight:400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #3F4145;
+	margin-bottom: 15px;
+}
+.ph4s2 {
+	font-family: "BPG Square", sans-serif;
+	font-weight:400;
+	font-size: 20px;
+	line-height: 24px;
+	color: #3F4145;
+	margin-bottom: 15px;
+}
+.div-s1 {
+	width: 1056px;
+	display: inline-block;
+	margin-top: 40px;
+}
+.section01 {
+	background: #E7E7E7;
+	margin-top:31px;
+}
+iframe {
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 40px;
+}
+.diven {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+}
+.footer-s2 {
+	margin-top: 150px;
+}
+
+/*Home page*/
+
+.pic1 {
+	width: 450px;
+	height: 250px;
+	margin-right: 0px;
+	margin-left: 0px;
+	display: inline-block;
+	margin-right: 66px;
+}
+.div-s5 {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19px;
+	color: #4E6FAE;
+	width: 525px;
+	height: 350px;
+	display: inline-block;
+	font-family: "BPG Square", sans-serif;
+
+}
+.myh3-s1 {
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #84FF81;
+}
+.diven-s1 {
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	padding: 10px;
+	margin-bottom: 18px;
+	margin-top: 44px;
+
+}
+.h4s1 {
+	margin-bottom: 8px;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 32px;
+	color: #8D81FF;
+	font-family: "BPG Square", sans-serif;
+}
+.h4s2 {
+	font-family: "BPG Square", sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+	color: #4E6FAE;
+	margin-bottom: 13px;
+}
+p {
+	margin-bottom: 20px;
+}
+.div-s6 {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19px;
+	color: #4E6FAE;
+	width: 525px;
+	height: 350px;
+	display: inline-block;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+.p-s1 {
+	margin-bottom: 145px;
+	display: block;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 19px;
+	color: #4E6FAE;
+	width: 1000px;
+	height: 50px;
+	display: inline-block;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+.pic-ss2 {
+	display: block;
+	margin-left: 0px;
+	margin-bottom: 32px;
+} 
